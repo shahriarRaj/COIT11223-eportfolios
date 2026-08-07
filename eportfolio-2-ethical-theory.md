@@ -60,7 +60,7 @@ Efficiency alone does not justify automated government decisions. Rule utilitari
 
 ## Artefact 4: Workshop reflection - submitting GenAI work
 
-![Week 4 workshop slide about ethics and ethical theories](images/artefact-4-workshop-4.png)
+![Week 4 workshop slide about ethics and ethical theories](images/artefact-4.png)
 
 *Figure 4. Week 4 workshop material on ethics and ethical theories (Galea 2026).*
 
