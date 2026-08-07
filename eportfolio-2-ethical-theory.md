@@ -90,4 +90,4 @@ Zhu, H, Sun, Y & Yang, J 2025, 'Towards responsible artificial intelligence in e
 
 ## Generative AI declaration
 
-Generative AI was used for planning, source discovery, drafting and language review. The cited publications were checked against their original pages.
+No generative AI tools were used to plan, research, draft, edit or proofread this assessment. All work was completed independently by S M Shahriar Alam. I have referenced, considered and cited all sources.
