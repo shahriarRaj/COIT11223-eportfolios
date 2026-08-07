@@ -1,2 +1,3 @@
-# COIT11223-eportfolios
-E-portfolios for COIT11223 ICT Ethics and Governance in Society
+# COIT11223 e-portfolios
+
+[E-portfolio 2: Ethical Theory](eportfolio-2-ethical-theory.md)
